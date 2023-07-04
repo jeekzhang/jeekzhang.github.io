@@ -1,25 +1,32 @@
-### Hi, welcome there 👋
+## Hi, welcome there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
 
-### I'm Jeek Zhang.
+## I'm Jeek Zhang.
 
 <br/>
 
-- 👨‍🎓 FDU
-- 🏫 Shanghai.
-- 💬 [jeekzhang@139.com](mailto:jeekzhang@139.com).
-- 📺︎ Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
+- 👨‍🎓 Junior, School of Computer Science
+- 🥚 Fudan University
+- 🏫 Shanghai, P.R.C.
+- 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
+- 📺 Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
+- 📃 Download my CV [here](CV_jeekzhang.pdf)
 <br/>
 <br/>
+
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.svg)th visitor
 
 <br/>
 <br/>
 
-
+## Currently Interested/Working on
+- 🪧 CLIP
+- ☢️ NeRF
+- 🤖 Robot Kinematics
+- 🥰 AIGC (C means comedy)  
 ## About My Code
 
 
@@ -38,7 +45,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
 
 ![](https://raw.githubusercontent.com/jeekzhang/jeekzhang/output/github-contribution-grid-snake.svg)
+  
 
 <br/>  
 <br/>  
 <br/>  
+
+
+
