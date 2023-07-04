@@ -1,6 +1,9 @@
 ## Hi, welcome there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
-
+I am a junior studying Computer Science at [Fudan University](https://www.fudan.edu.cn/), supervised by [Prof. Yesian Rohn](https://yesianrohn.github.io/).
+      I am currently focused on projects involving CLIP, NeRF, Robot Kinematics, and AIGC (C means Comedy), and
+      excited about exploring the potential of these fields and leveraging them to make a positive impact. 
+      Please connect and collaborate with me on exciting computer science projects!
 
 
 ## I'm Jeek Zhang.
