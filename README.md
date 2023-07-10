@@ -4,7 +4,7 @@ I am a junior studying Computer Science at [Fudan University](https://www.fudan.
       excited about exploring the potential of these fields and leveraging them to make a positive impact. 
       Please connect and collaborate with me on exciting computer science projects!
         
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+<img align="right" top='60' alt="GIF" src="gif3.gif" width="480"/>
 
 ## I'm Jeek Zhang.
 
@@ -48,7 +48,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
 
 ![](https://raw.githubusercontent.com/jeekzhang/jeekzhang/output/github-contribution-grid-snake.svg)
-  
 
 <br/>  
 <br/>  
