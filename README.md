@@ -15,7 +15,7 @@ I am a junior studying Computer Science at [Fudan University](https://www.fudan.
 - 🏫 Shanghai, P.R.C.
 - 📫 [jeekzhang@139.com](mailto:jeekzhang@139.com).
 - 📺 Watch my video at [up主:希撇xipie](https://space.bilibili.com/225946390).
-- 📃 Download my CV [here](CV_jeekzhang.pdf)
+- 📃 Download my CV [here](https://github.com/jeekzhang/jeekzhang/blob/main/CV_jeekzhang.pdf)
 <br/>
 <br/>
 
