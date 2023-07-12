@@ -1,4 +1,7 @@
+# Jeek Zhang's Page
+
 ## Hi, welcome there 👋
+
 I am a junior studying Computer Science at [Fudan University](https://www.fudan.edu.cn/), supervised by [Prof. Yesian Rohn](https://yesianrohn.github.io/).
       I am currently focused on projects involving CLIP, NeRF, Robot Kinematics, and AIGC (C means Comedy), and
       excited about exploring the potential of these fields and leveraging them to make a positive impact. 
