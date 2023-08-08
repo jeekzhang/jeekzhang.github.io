@@ -4,7 +4,7 @@ I am a junior studying Computer Science at [Fudan University](https://www.fudan.
 
 Besides that, I am also a stand-up comedian, specializing in one-liner jokes. Let me tell you a joke about my name: As you know, Jike Zhang is a famous ping-pong player. Coincidentally, in computer networks, "ping" and "pong" are terms used to describe a mechanism for testing connectivity and response time between devices. So maybe I am also a ping-pong sender in a certain sense.
 
-</br>
+<br></br>
 
 <img align="right" top='60' alt="GIF" src="gif3.gif" width="480"/>
 
