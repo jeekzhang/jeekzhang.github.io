@@ -25,11 +25,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 - 🤖 Robot Kinematics
 - 🥰 AIGC (C means comedy)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&amp;m=0&amp;c=ff8a00&amp;cr1=ffc000&amp;sx=0" async="async"></script>
+## About My Code
+
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jeekzhang&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeekzhang&hide=VHDL&theme=calm&langs_count=6&layout=compact" />
+</div> 
 
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
 
 
-![commit-snake](https://raw.githubusercontent.com/jeekzhang/jeekzhang/output/github-contribution-grid-snake.svg)
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&amp;m=0&amp;c=ff8a00&amp;cr1=ffc000&amp;sx=0" async="async"></script>
