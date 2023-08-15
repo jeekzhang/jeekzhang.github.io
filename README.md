@@ -25,14 +25,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 - 🤖 Robot Kinematics
 - 🥰 AIGC (C means comedy)
 
-
-## About My Code
-
-
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jeekzhang&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeekzhang&hide=VHDL&theme=calm&langs_count=6&layout=compact" />
-</div> 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&amp;m=0&amp;c=ff8a00&amp;cr1=ffc000&amp;sx=0" async="async"></script>
 
 
 ## 🏆 Github Profile Trophy
