@@ -36,7 +36,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&column=8"/>
-<img src="https://github-profile-trophy.vercel.app/?username=jeekzhang&no-frame=true&column=4&margin-w=36&margin-h=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeekzhang"/>
 
 ---
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&amp;m=0&amp;c=ff8a00&amp;cr1=ffc000&amp;sx=0" async="async"></script>
