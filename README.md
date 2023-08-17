@@ -33,6 +33,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
     <img src="https://camo.githubusercontent.com/6a93d06b761a92fe010c57b9c09d1ee799eb4bda65d6516301c0e1ab0e5262a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a65656b7a68616e6726686964653d5648444c267468656d653d63616c6d266c616e67735f636f756e743d36266c61796f75743d636f6d70616374" />
 </div> 
 
-
+## Visit Map
 ---
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&amp;m=0&amp;c=ff8a00&amp;cr1=ffc000&amp;sx=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&m=0&c=ff8a00&cr1=ffc000&sx=0" async="async" width="50%" height="50%"></script>
+
