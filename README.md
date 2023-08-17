@@ -29,7 +29,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=jeekzhang&theme=calm&show_icons=true" />
+    <img height="165" align="left" src="https://camo.githubusercontent.com/76cf2800b3e6de9ff0d7e1e5e529f8c1e809170008e5dd51d5d35e5e4d40ba2e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a65656b7a68616e67267468656d653d63616c6d2673686f775f69636f6e733d74727565" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeekzhang&hide=VHDL&theme=calm&langs_count=6&layout=compact" />
 </div> 
 
