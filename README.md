@@ -35,5 +35,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jeekzhang/count.sv
 
 ## Visit Map
 ---
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&m=0&h=256&c=ff0000&r=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=53esshfhnek&m=0&h=128&c=ff0000&r=0" async="async"></script>
 
